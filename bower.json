@@ -1,0 +1,17 @@
+{
+  "name": "newproject",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "alice"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Alicemaina/newproject",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

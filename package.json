@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alicemaina/newproject.git"
+  },
+  "author": "alice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alicemaina/newproject/issues"
+  },
+  "homepage": "https://github.com/Alicemaina/newproject#readme",
+  "dependencies": {
+    "browserify": "^13.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
